@@ -422,13 +422,6 @@ height: 20px;
  font-size: 50px;
 }
 
-
-
-
-
-
-
-
 #contact{
     background: #F8FAFB;
     
@@ -488,14 +481,6 @@ line-height: 1.8;
         transition: .8s;
         background: #FF545A;
     }
-    
-
-
-
-
-
-
-
 /* blog */
 
 
@@ -524,9 +509,6 @@ line-height: 1.8;
     justify-content: center;
     align-items: center;
 }
-
-
-
 
 /* for arrow */
 
@@ -615,19 +597,6 @@ line-height: 1.8;
         
         }
     
-    
-
-     
-         
-    
-    
-    
-        
-
-    
-
-
-
         @media (max-width: 380px) {
         .asasasasasasasa {
             
@@ -819,10 +788,7 @@ margin-left: 85px;
                   width: 60px;
                     font-size: 11px;
                 }
-                /* #contact {
-                    width: 34rem;
-                  
-                       } */
+           
       
 
         .herocon h1{
@@ -860,9 +826,7 @@ margin-left: 10px;
             }
          
             .CLO3NAV a {
-    
-
-                padding: 2px;
+   padding: 2px;
                 width: 110px;
                 font-size: 15px;
             
@@ -1040,32 +1004,11 @@ margin: 10px;
   
 
 
-/* @media (min-width: 865px) and (max-width: 3000px) {
+ @media (min-width: 865px) and (max-width: 3000px) {
 
     .asasasasasasasa{
         position: relative;
         bottom: 120px;
         z-index: 2;
     }
-
-}
-@media (min-width: 576px) and (max-width: 767px) {
-    .herocon::before{
-        height: 200%;
-    }
-}
-@media (min-width: 768px) and (max-width: 991px) {
-    .herocon::before{
-        height:170%;
-    }
-}
-@media (min-width: 992px) and (max-width: 1399px) {
-    .herocon::before{
-        height:105%;
-    }
-}
-@media (min-width: 1400px) and (max-width: 2000px) {
-    .herocon::before{
-        height:93%;
-    }
-} */
+ }
